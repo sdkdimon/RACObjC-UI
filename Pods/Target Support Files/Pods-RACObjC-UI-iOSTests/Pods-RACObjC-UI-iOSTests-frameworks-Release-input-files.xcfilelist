@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-RACObjC-UI-iOSTests/Pods-RACObjC-UI-iOSTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Nimble-iOS/Nimble.framework
+${BUILT_PRODUCTS_DIR}/Quick-iOS/Quick.framework
+${BUILT_PRODUCTS_DIR}/RACObjC-iOS/RACObjC.framework
