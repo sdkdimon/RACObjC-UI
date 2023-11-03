@@ -11,14 +11,14 @@ Pod::Spec.new do |s|
                      It provides APIs for composing and **transforming streams of values**.
                    DESC
 
-  s.homepage     = "https://github.com/sdkdimon/RACObjC"
+  s.homepage     = "https://github.com/sdkdimon/RACObjC-UI"
   s.license      = { type: "MIT", file: "LICENSE" }
 
   s.documentation_url  = "https://github.com/sdkdimon/RACObjC/tree/master/Documentation#readme"
 
   s.author             = "Dmitry Lizin"
  
-  s.source = { git: "https://github.com/sdkdimon/RACObjC.git", tag: s.version }
+  s.source = { git: "https://github.com/sdkdimon/RACObjC-UI.git", tag: s.version }
   
   s.module_map = 'UI/RACObjC-UI/RACObjC-UI.modulemap'
   
